@@ -1,0 +1,10 @@
+<dependencies>
+    <dependecy>
+        <groupId> org.springframework</groupId>
+        <artifactId> spring-context </artifactId>
+        <version> 3.5.4 </version> <!-- or your preferred Spring version-->
+    </dependecy>
+
+
+
+</dependencies>
